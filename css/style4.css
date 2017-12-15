@@ -1460,11 +1460,11 @@ div.ciudadano {
         margin: 0 auto;
         z-index: 10;
         display: block;
-        background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/entidad_verde.png") no-repeat;
+        background: url("../images/icons/entidad_verde.png") no-repeat;
     }
 
 #fh5co-intro .fh5co-block:hover > .fh5co-text .entidad, #fh5co-intro .fh5co-block:focus > .fh5co-text .ciudadano {
-  background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/entidad_blanco.png") no-repeat;
+  background: url("../images/icons/entidad_blanco.png") no-repeat;
 }
 
 div.entidad {
@@ -1475,11 +1475,11 @@ div.entidad {
         margin: 0 auto;
         z-index: 10;
         display: block;
-        background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/entidad_verde.png") no-repeat;
+        background: url("../images/icons/entidad_verde.png") no-repeat;
     }
 
 #fh5co-intro .fh5co-block:hover > .fh5co-text .entidad, #fh5co-intro .fh5co-block:focus > .fh5co-text .entidad {
-  background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/entidad_blanco.png") no-repeat;
+  background: url("../images/icons/entidad_blanco.png") no-repeat;
 }
 
 
@@ -1492,11 +1492,11 @@ div.entidad {
         margin: 0 auto;
         z-index: 10;
         display: block;
-        background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/entidad_verde.png") no-repeat;
+        background: url("../images/icons/entidad_verde.png") no-repeat;
     }
 
 #fh5co-intro .fh5co-block:hover > .fh5co-text .entidad, #fh5co-intro .fh5co-block:focus > .fh5co-text .entidad {
-  background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/entidad_blanco_lleno.png") no-repeat;
+  background: url("../images/icons/entidad_blanco_lleno.png") no-repeat;
 }
 
 
@@ -1508,11 +1508,11 @@ div.proveedor {
         margin: 0 auto;
         z-index: 10;
         display: block;
-        background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/proveedor_verde.png") no-repeat;
+        background: url("../images/icons/proveedor_verde.png") no-repeat;
     }
 
 #fh5co-intro .fh5co-block:hover > .fh5co-text .proveedor, #fh5co-intro .fh5co-block:focus > .fh5co-text .proveedor {
-  background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/proveedor_blanco_lleno.png") no-repeat;
+  background: url("../images/icons/proveedor_blanco_lleno.png") no-repeat;
 }
 
 div.ciudadano {
@@ -1523,9 +1523,20 @@ div.ciudadano {
         margin: 0 auto;
         z-index: 10;
         display: block;
-        background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/ciudadanos_verde.png") no-repeat;
+        background: url("../images/icons/ciudadanos_verde.png") no-repeat;
     }
 
+/*div.ciudadano {
+        width: 100px;
+        height: 100px;
+        position: relative;
+        padding: 0px 0px;
+        margin: 0 auto;
+        z-index: 10;
+        display: block;
+        background: url("../images/icons/ciudadanos_verde.png") no-repeat;
+    }*/
+
 #fh5co-intro .fh5co-block:hover > .fh5co-text .ciudadano, #fh5co-intro .fh5co-block:focus > .fh5co-text .ciudadano {
-  background: url("C:/Users/tic.tank/Documents/tic-tank/Dorita/CCE - CINTEL/Aplicacion web/Pruebas/Pruebas Iniciales y ejercicios shiny/indicador TVEC/Aplicacion/Landing_page/images/icons/ciudadanos_blanco_lleno.png") no-repeat;
+  background: url("../images/icons/ciudadanos_blanco_lleno.png") no-repeat;
 }
